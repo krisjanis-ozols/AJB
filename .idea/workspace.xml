@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="2nd task">
-      <change afterPath="$PROJECT_DIR$/src/ajb2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ajb2_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="3rd and 4th tasks">
+      <change afterPath="$PROJECT_DIR$/src/ajb2_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660735727652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3rd and 4th tasks">
+      <created>1660736449164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736449164</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Renamed ajb21 to ajb2_1" />
     <MESSAGE value="2nd task" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd task" />
+    <MESSAGE value="3rd and 4th tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd and 4th tasks" />
   </component>
 </project>
