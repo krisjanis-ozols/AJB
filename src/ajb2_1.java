@@ -16,6 +16,5 @@ public class ajb2_1 {
         System.out.println("is "+ a +"  less or equal to "+ b +"? - "+(a<=b));
         System.out.println("is "+ a +" greater than "+ b +"? - "+(a>b));
         System.out.println("is "+ a +" greater or equal to "+ b +"? - "+(a>=b));
-
     }
 }
