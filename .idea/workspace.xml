@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="3rd and 4th tasks">
-      <change afterPath="$PROJECT_DIR$/src/ajb2_5.java" afterDir="false" />
+    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="5th tasks">
+      <change afterPath="$PROJECT_DIR$/src/ajb2_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660736449164</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5th tasks">
+      <created>1660736839636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736839636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +105,7 @@
     <MESSAGE value="Renamed ajb21 to ajb2_1" />
     <MESSAGE value="2nd task" />
     <MESSAGE value="3rd and 4th tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd and 4th tasks" />
+    <MESSAGE value="5th tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th tasks" />
   </component>
 </project>
