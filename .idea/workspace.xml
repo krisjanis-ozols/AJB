@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="5th tasks">
-      <change afterPath="$PROJECT_DIR$/src/ajb2_6.java" afterDir="false" />
+    <list default="true" id="b9f71daa-2b2b-443e-95d9-c2d367a2da19" name="Changes" comment="6th task">
+      <change afterPath="$PROJECT_DIR$/src/ajb3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajb3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kihakik\IdeaProjects\AJB\src" />
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660736839636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6th task">
+      <created>1660737349994</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660737349994</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +116,7 @@
     <MESSAGE value="2nd task" />
     <MESSAGE value="3rd and 4th tasks" />
     <MESSAGE value="5th tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th tasks" />
+    <MESSAGE value="6th task" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th task" />
   </component>
 </project>
