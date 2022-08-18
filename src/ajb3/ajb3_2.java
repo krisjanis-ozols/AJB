@@ -1,3 +1,5 @@
+package ajb3;
+
 import java.util.Random;
 
 public class ajb3_2 {
